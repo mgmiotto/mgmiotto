@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Matheus! 👋 </h1>
 
 <p align="center">
-  Particle physicist | PhD Student
+  Particle Physicist | PhD Student
 </p>
 
 ---
