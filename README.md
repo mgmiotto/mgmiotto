@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Matheus! 👋 </h1>
 
-<!--
-**mgmiotto/mgmiotto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Particle physicist | PhD Student | 
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a PhD researcher in High-Energy Physics at the University of Campinas (Unicamp) and a member of the ALICE Collaboration at CERN.
+
+My research focuses on the study of strongly interacting matter produced in ultra-relativistic heavy-ion collisions, including:
+
+- Strange hadron production
+- Quark-Gluon Plasma properties
+- Monte Carlo simulations
+- Machine Learning and Generative AI for particle physics
+
+Current projects:
+- Diffusion Models for synthetic particle-collision data generation 
+
+<div align="right">
+  
+**Contact**
+
+matheus.guilherme.miotto@cern.ch
+http://lattes.cnpq.br/3403618989284867
+https://orcid.org/0009-0009-1596-3460
+
+**HadrEx Reasearch Group**
+https://sites.ifi.unicamp.br/hadrex/
+
+</div>
