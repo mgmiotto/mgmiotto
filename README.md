@@ -18,11 +18,11 @@ My research focuses on the study of strongly interacting matter produced in ultr
 Current projects:
 - Diffusion Models for synthetic particle-collision data generation 
   
-**Contact**
+**Contact**:
 
-matheus.guilherme.miotto@cern.ch
-http://lattes.cnpq.br/3403618989284867
-https://orcid.org/0009-0009-1596-3460
+- E-mail: matheus.guilherme.miotto@cern.ch
+- ORCID: https://orcid.org/0009-0009-1596-3460
+- Lattes: http://lattes.cnpq.br/3403618989284867
 
-**HadrEx Reasearch Group**
-https://sites.ifi.unicamp.br/hadrex/
+**HadrEx Reasearch Group**:
+- https://sites.ifi.unicamp.br/hadrex/
