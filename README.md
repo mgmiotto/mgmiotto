@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Matheus! 👋 </h1>
 
 <p align="center">
-  Particle physicist | PhD Student | 
+  Particle physicist | PhD Student
 </p>
 
 ---
@@ -17,8 +17,6 @@ My research focuses on the study of strongly interacting matter produced in ultr
 
 Current projects:
 - Diffusion Models for synthetic particle-collision data generation 
-
-<div align="right">
   
 **Contact**
 
@@ -28,5 +26,3 @@ https://orcid.org/0009-0009-1596-3460
 
 **HadrEx Reasearch Group**
 https://sites.ifi.unicamp.br/hadrex/
-
-</div>
